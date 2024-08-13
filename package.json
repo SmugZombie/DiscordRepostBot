@@ -1,0 +1,19 @@
+{
+  "name": "discord-image-hash-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ron Egli (GitHub: @smugzombie)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
